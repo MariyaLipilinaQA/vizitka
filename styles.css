@@ -1,0 +1,15 @@
+.char{
+	color: yellow;
+	margin-left: 300px;
+	font-family:arial;
+	font-size: 40px;
+}
+
+#contacts {
+	color: green;
+
+}
+
+.char:hover {
+   color: red;
+}
